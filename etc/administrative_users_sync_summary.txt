@@ -1,0 +1,19 @@
+Microsoft (R) SQL Server Replication Diff Tool 
+Copyright (c) 2008 Microsoft Corporation
+
+User-specified agent parameter values:
+-t 3600
+-sourceserver localhost
+-sourceuser reportadmin
+-sourcepassword report.admin12
+-sourcedatabase test_db
+-sourcetable administrative_users
+-destinationserver localhost
+-destinationuser reportadmin
+-destinationpassword report.admin12
+-destinationdatabase test_db_3
+-destinationtable administrative_users
+-f C:\Users\mobolaji.aina\Documents\c_sharp\synchronizer\etc\administrative_users.sql
+
+Table [test_db].[dbo].[administrative_users] on localhost and Table [test_db_3].[dbo].[administrative_users] on localhost are identical.
+The requested operation took 0.0903784 seconds.

@@ -1,0 +1,2 @@
+
+C:\sql_table_sync\bin\DatabaseSynchronizer.exe 172.25.15.213 realtime 172.19.75.213 realtime 2 tm_card_acceptor,tm_sink_node_mapped_fields

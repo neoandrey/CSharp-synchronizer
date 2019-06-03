@@ -1,0 +1,18 @@
+Microsoft (R) SQL Server Replication Diff Tool 
+Copyright (c) 2008 Microsoft Corporation
+
+User-specified agent parameter values:
+-t 3600
+-sourceserver localhost
+-sourceuser reportadmin
+-sourcepassword report.admin12
+-sourcedatabase test_db
+-sourcetable Beneficiary file_88_15thH
+-destinationserver localhost
+-destinationuser reportadmin
+-destinationpassword report.admin12
+-destinationdatabase test_db_3
+-destinationtable Beneficiary file_88_15thH
+-f C:\Users\mobolaji.aina\Documents\c_sharp\synchronizer\etc\Beneficiary file_88_15thH.sql
+
+The replication table difference tool requires the comparison tables/views to have either a primary key, identity, rowguid or unique key column.

@@ -1,0 +1,1 @@
+DatabaseSynchronizer.exe 172.25.15.213 realtime 172.19.75.213 realtime 1 tm_sink_node_mapped_fields
